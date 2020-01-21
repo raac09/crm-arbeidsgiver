@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "result": {
+    "nonScratchOrgs": [
+      {
+        "orgId": "00D2o000000aANVEA2",
+        "accessToken": "8d4bbd9d6d94320f144a4e3d35dcaadd27122def2bfaaec419a60fb388106a8eff96be2eef89b0a7c83ccae369589f6f26ef02f00b57ceb6bd01c66db7178e7a59b09a5f96cdd4c6cb6edd46d493118587875b56a2b732dbaa1211c0e35c9bc2fe796afde69aadf61355a1bb1bd3d762434cb9ca1731:ff9df31033c66cfd029ac426a67497fd",
+        "instanceUrl": "https://navdialog.my.salesforce.com",
+        "loginUrl": "https://login.salesforce.com",
+        "username": "michael.johansen@nav.no",
+        "clientId": "PlatformCLI",
+        "connectedStatus": "Connected",
+        "lastUsed": "2020-01-21T11:05:30.529Z"
+      },
+      {
+        "orgId": "00D2o000000aANVEA2",
+        "accessToken": "c50dacf0a4ca15b3eb018a78d0d9399664687834d453f73d62806c261fbfbcf3cff671782e5db8bcc2963c988dc137478be2047316536d87bddeff39a72b083f52ecfb50fd214a3a2a7f6da47839fc84e3bb73eade878bb486e30f4c20479db08acf98ce1caeb6fb12b7a19a85f52d6b9a78ebe1f2b0:f43e37fef43d2fe1deaf02d69d95d7c5",
+        "instanceUrl": "https://navdialog.my.salesforce.com",
+        "loginUrl": "https://login.salesforce.com",
+        "username": "michael.johansen@nav.no.dx",
+        "clientId": "PlatformCLI",
+        "isDevHub": true,
+        "connectedStatus": "Connected",
+        "lastUsed": "2020-01-21T11:07:15.057Z",
+        "alias": "NavProd",
+        "isDefaultDevHubUsername": true,
+        "defaultMarker": "(D)"
+      }
+    ],
+    "scratchOrgs": [
+      {
+        "orgId": "00D1j0000000hNsEAI",
+        "accessToken": "d5dee6052ad46f6b394c9a0664a176933b7e50b4587c532801d60fd6d77a89776df9b2675306de82fbf2ab9add7b1b2447c8c473c14e1dc9612b9a0957b9e527ab78a88eacd825987ce940da68273095ca62335fa98ec433b22427bb42dd37cc72a1d3ba9070aa173e8a2de6a1b12b170ca18eb448b7:309f67d30509f794602e91dd9a13cbf1",
+        "instanceUrl": "https://data-app-5638.cs102.my.salesforce.com/",
+        "loginUrl": "https://CS102.salesforce.com",
+        "username": "test-aahvyafazvlq@example.com",
+        "clientId": "PlatformCLI",
+        "createdOrgInstance": "CS102",
+        "created": "1579604817940",
+        "devHubUsername": "michael.johansen@nav.no.dx",
+        "connectedStatus": "Unknown",
+        "lastUsed": "2020-01-21T11:07:16.391Z",
+        "alias": "NavDev",
+        "isDefaultUsername": true,
+        "attributes": {
+          "type": "ScratchOrgInfo",
+          "url": "/services/data/v47.0/sobjects/ScratchOrgInfo/2SR2o000000L2w4GAC"
+        },
+        "orgName": "NAV TAG",
+        "status": "Active",
+        "createdBy": "michael.johansen@nav.no.dx",
+        "createdDate": "2020-01-21T11:06:36.000+0000",
+        "expirationDate": "2020-01-26",
+        "edition": "Enterprise",
+        "signupUsername": "test-aahvyafazvlq@example.com",
+        "devHubOrgId": "00D2o000000aANVEA2",
+        "isExpired": false,
+        "defaultMarker": "(U)"
+      }
+    ]
+  }
+}

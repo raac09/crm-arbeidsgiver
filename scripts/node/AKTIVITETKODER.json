@@ -1,0 +1,986 @@
+[
+  {
+    "AKTIVITETKODE": "AMBF1",
+    "AKTIVITETTYPENAVN": "AMB Avklaring (fase 1)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1248
+  },
+  {
+    "AKTIVITETKODE": "LONNTILAAP",
+    "AKTIVITETTYPENAVN": "Arbeidsavklaringspenger som lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1367
+  },
+  {
+    "AKTIVITETKODE": "ARBTRENE",
+    "AKTIVITETTYPENAVN": "Arbeidstrening hos egen arbeidsgiver",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 11
+  },
+  {
+    "AKTIVITETKODE": "ARBDOGNSM",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering (døgn) - sykmeldt arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 138
+  },
+  {
+    "AKTIVITETKODE": "BT07",
+    "AKTIVITETTYPENAVN": "Basistjeneste 07 - Hjelp i vanskelige enkeltsaker",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 46429
+  },
+  {
+    "AKTIVITETKODE": "BEDRUNDER",
+    "AKTIVITETTYPENAVN": "Bedriftsundersøkelse",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 3178
+  },
+  {
+    "AKTIVITETKODE": "FLEKSJOBB",
+    "AKTIVITETTYPENAVN": "Fleksibel jobb - lønnstilskudd av lengre varighet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1133
+  },
+  {
+    "AKTIVITETKODE": "IA_OPPST",
+    "AKTIVITETTYPENAVN": "IA Oppstart/restart",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 79438
+  },
+  {
+    "AKTIVITETKODE": "JOBBFOKUS",
+    "AKTIVITETTYPENAVN": "Jobbfokus/Utvidet formidlingsbistand",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 70
+  },
+  {
+    "AKTIVITETKODE": "SAMREKR",
+    "AKTIVITETTYPENAVN": "Samarbeidsmøte rekrutteringsbistand",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 4879
+  },
+  {
+    "AKTIVITETKODE": "INDOPPFOLG",
+    "AKTIVITETTYPENAVN": "Individuelt oppfølgingstiltak",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 567
+  },
+  {
+    "AKTIVITETKODE": "UTBHSAMLI",
+    "AKTIVITETTYPENAVN": "Utredning/behandling sammensatte lidelser",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 102
+  },
+  {
+    "AKTIVITETKODE": "GRUFAGYRKE",
+    "AKTIVITETTYPENAVN": "Gruppe Fag- og yrkesopplæring VGS og høyere yrkesfaglig utdanning",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 97
+  },
+  {
+    "AKTIVITETKODE": "OPPLT2AAR",
+    "AKTIVITETTYPENAVN": "2-årig opplæringstiltak",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1751
+  },
+  {
+    "AKTIVITETKODE": "ABIST",
+    "AKTIVITETTYPENAVN": "Arbeid med Bistand (AB)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1203
+  },
+  {
+    "AKTIVITETKODE": "BT11",
+    "AKTIVITETTYPENAVN": "Basistjeneste 11 - Annet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 18066
+  },
+  {
+    "AKTIVITETKODE": "INST_S",
+    "AKTIVITETTYPENAVN": "Nye plasser institusjonelle tiltak",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 4
+  },
+  {
+    "AKTIVITETKODE": "VALS",
+    "AKTIVITETTYPENAVN": "Formidlingstjenester - Ventelønn",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 55
+  },
+  {
+    "AKTIVITETKODE": "AVKLARUS",
+    "AKTIVITETTYPENAVN": "Avklaring",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 48
+  },
+  {
+    "AKTIVITETKODE": "EGENTREN",
+    "AKTIVITETTYPENAVN": "Egentrening",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 4
+  },
+  {
+    "AKTIVITETKODE": "LONNTIL",
+    "AKTIVITETTYPENAVN": "Tidsbegrenset lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 41458
+  },
+  {
+    "AKTIVITETKODE": "LONNTILL",
+    "AKTIVITETTYPENAVN": "Lønnstilskudd av lengre varighet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 3332
+  },
+  {
+    "AKTIVITETKODE": "YHEMMOFF",
+    "AKTIVITETTYPENAVN": "Sysselsettingstiltak for yrkeshemmede",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2449
+  },
+  {
+    "AKTIVITETKODE": "INFMO",
+    "AKTIVITETTYPENAVN": "Informasjonsmøte - omstilling nedbemanning",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 60013
+  },
+  {
+    "AKTIVITETKODE": "SP_DIALOG3",
+    "AKTIVITETTYPENAVN": "Dialogmøte 3 (i regi av NAV)",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 112890
+  },
+  {
+    "AKTIVITETKODE": "AVKLARAG",
+    "AKTIVITETTYPENAVN": "Avklaring",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2960
+  },
+  {
+    "AKTIVITETKODE": "TIA08",
+    "AKTIVITETTYPENAVN": "04 IA Tjeneste: Rekruttere nye medarbeidere",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 14121
+  },
+  {
+    "AKTIVITETKODE": "GRUPPEAMO",
+    "AKTIVITETTYPENAVN": "Gruppe AMO",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 105
+  },
+  {
+    "AKTIVITETKODE": "ABUOPPF",
+    "AKTIVITETTYPENAVN": "Arbeid med bistand A utvidet oppfølging",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 7
+  },
+  {
+    "AKTIVITETKODE": "SPA",
+    "AKTIVITETTYPENAVN": "Spa prosjekter",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 849
+  },
+  {
+    "AKTIVITETKODE": "AKTSYK_IA",
+    "AKTIVITETTYPENAVN": "SF2 - Aktiv sykmelding, IA-avtale",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 112859
+  },
+  {
+    "AKTIVITETKODE": "INDOPPFSP",
+    "AKTIVITETTYPENAVN": "Oppfølging - sykmeldt arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 403
+  },
+  {
+    "AKTIVITETKODE": "IA_FJERN",
+    "AKTIVITETTYPENAVN": "IA Fjern IA-status for arbeidsgiver",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 13997
+  },
+  {
+    "AKTIVITETKODE": "KURS",
+    "AKTIVITETTYPENAVN": "Egenfinansiert kurs",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 3
+  },
+  {
+    "AKTIVITETKODE": "REKEØS",
+    "AKTIVITETTYPENAVN": "Rekrutteringsbistand i EØS-området",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 16660
+  },
+  {
+    "AKTIVITETKODE": "T01",
+    "AKTIVITETTYPENAVN": "01 IA Tjeneste: Rekruttering av enkeltvirksomhet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 5490
+  },
+  {
+    "AKTIVITETKODE": "SAMARBAVT",
+    "AKTIVITETTYPENAVN": "Samarbeidsavtale",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 1052
+  },
+  {
+    "AKTIVITETKODE": "JOBBSKAP",
+    "AKTIVITETTYPENAVN": "Jobbskapingsprosjekter",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 664
+  },
+  {
+    "AKTIVITETKODE": "INKLUTILS",
+    "AKTIVITETTYPENAVN": "Inkluderingstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 5198
+  },
+  {
+    "AKTIVITETKODE": "ETAB",
+    "AKTIVITETTYPENAVN": "Egenetablering",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 11927
+  },
+  {
+    "AKTIVITETKODE": "JOBBK",
+    "AKTIVITETTYPENAVN": "Jobbklubb",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 7729
+  },
+  {
+    "AKTIVITETKODE": "TLFREKBIST",
+    "AKTIVITETTYPENAVN": "Telefonkontakt rekrutteringsbistand",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 14545
+  },
+  {
+    "AKTIVITETKODE": "ESYK",
+    "AKTIVITETTYPENAVN": "Sykdom",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 1
+  },
+  {
+    "AKTIVITETKODE": "UTVAOONAV",
+    "AKTIVITETTYPENAVN": "Utvidet oppfølging i NAV",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 127
+  },
+  {
+    "AKTIVITETKODE": "T06",
+    "AKTIVITETTYPENAVN": "06 IA Tjeneste: Veilede i IA-ledelse",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 35424
+  },
+  {
+    "AKTIVITETKODE": "AMOB",
+    "AKTIVITETTYPENAVN": "Arbeidsmarkedsopplæring (AMO) i bedrift",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 90
+  },
+  {
+    "AKTIVITETKODE": "IA_ANPLAN",
+    "AKTIVITETTYPENAVN": "IA Analyse og plan",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 37431
+  },
+  {
+    "AKTIVITETKODE": "ARBRDAGSM",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering (dag) - sykmeldt arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 473
+  },
+  {
+    "AKTIVITETKODE": "ARBRRDOGN",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering (døgn)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 94
+  },
+  {
+    "AKTIVITETKODE": "T05",
+    "AKTIVITETTYPENAVN": "05 IA Tjeneste: Bistå i systemrettet sykefraværsoppfølging",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 38768
+  },
+  {
+    "AKTIVITETKODE": "REFINO",
+    "AKTIVITETTYPENAVN": "Resultatbasert finansiering av oppfølging",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 9
+  },
+  {
+    "AKTIVITETKODE": "SP_DIALOG1",
+    "AKTIVITETTYPENAVN": "SF4 - Dialogmøte 1 (i regi av arbeidsgiver)",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 51630
+  },
+  {
+    "AKTIVITETKODE": "FUNKSJASS",
+    "AKTIVITETTYPENAVN": "Funksjonsassistanse",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 575
+  },
+  {
+    "AKTIVITETKODE": "INFOOMST",
+    "AKTIVITETTYPENAVN": "Informasjonsmøte - omstilling og nedbemanning",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 182
+  },
+  {
+    "AKTIVITETKODE": "STATLAERL",
+    "AKTIVITETTYPENAVN": "Lærlinger i statlige etater",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 6
+  },
+  {
+    "AKTIVITETKODE": "ENKELAMO",
+    "AKTIVITETTYPENAVN": "Enkeltplass AMO",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 5240
+  },
+  {
+    "AKTIVITETKODE": "OPPFPLAN",
+    "AKTIVITETTYPENAVN": "SF1 - Arbeidsgivers oppfølgingsplan",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 391547
+  },
+  {
+    "AKTIVITETKODE": "ITGRTILS",
+    "AKTIVITETTYPENAVN": "Integreringstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 728
+  },
+  {
+    "AKTIVITETKODE": "DIVTILT",
+    "AKTIVITETTYPENAVN": "Diverse tiltak",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 12200
+  },
+  {
+    "AKTIVITETKODE": "T07",
+    "AKTIVITETTYPENAVN": "07 IA Tjeneste: Veilede i helsefremmende IA-arbeid",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 38811
+  },
+  {
+    "AKTIVITETKODE": "BT01",
+    "AKTIVITETTYPENAVN": "Basistjeneste 01 - Forankring og oppstart av IA-arbeidet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 41955
+  },
+  {
+    "AKTIVITETKODE": "REKRE",
+    "AKTIVITETTYPENAVN": "Rekrutteringsreise",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 6645
+  },
+  {
+    "AKTIVITETKODE": "ENKFAGYRKE",
+    "AKTIVITETTYPENAVN": "Enkeltplass Fag- og yrkesopplæring VGS og høyere yrkesfaglig utdanning",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2493
+  },
+  {
+    "AKTIVITETKODE": "TILRTILSK",
+    "AKTIVITETTYPENAVN": "Forebyggings- og tilretteleggingstilskudd IA virksomheter og BHT-honorar",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 167333
+  },
+  {
+    "AKTIVITETKODE": "BT02",
+    "AKTIVITETTYPENAVN": "Basistjeneste 02 - Ledelse",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 51008
+  },
+  {
+    "AKTIVITETKODE": "SYSSOFF",
+    "AKTIVITETTYPENAVN": "Sysselsettingstiltak i offentlig sektor for yrkeshemmede",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 4119
+  },
+  {
+    "AKTIVITETKODE": "FRISKMELDT",
+    "AKTIVITETTYPENAVN": "SF5 - Friskmeldt til arbeidsformidling i sykepengeperioden",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 5948
+  },
+  {
+    "AKTIVITETKODE": "AMO",
+    "AKTIVITETTYPENAVN": "Arbeidsmarkedsopplæring (AMO)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 28136
+  },
+  {
+    "AKTIVITETKODE": "KAT",
+    "AKTIVITETTYPENAVN": "Formidlingstjenester",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 32
+  },
+  {
+    "AKTIVITETKODE": "AVKLARSP",
+    "AKTIVITETTYPENAVN": "Avklaring - sykmeldt arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1622
+  },
+  {
+    "AKTIVITETKODE": "T02",
+    "AKTIVITETTYPENAVN": "02 IA Tjeneste: Gjennomføre analyse og planlegging av IA-arbeidet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 22309
+  },
+  {
+    "AKTIVITETKODE": "AKTSYK_SA",
+    "AKTIVITETTYPENAVN": "SF3 - Aktiv sykmelding, ikke IA-avtale",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 20309
+  },
+  {
+    "AKTIVITETKODE": "AMOY",
+    "AKTIVITETTYPENAVN": "Arbeidsmarkedskurs (AMO) yrkeshemmede",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1024
+  },
+  {
+    "AKTIVITETKODE": "BT09",
+    "AKTIVITETTYPENAVN": "Basistjeneste 09 - Arbeidstakere med redusert funksjonsevne",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 7673
+  },
+  {
+    "AKTIVITETKODE": "ARBTREN",
+    "AKTIVITETTYPENAVN": "Arbeidstrening",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 160530
+  },
+  {
+    "AKTIVITETKODE": "AVKLARKV",
+    "AKTIVITETTYPENAVN": "Avklaring av kortere varighet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 294
+  },
+  {
+    "AKTIVITETKODE": "TIA09",
+    "AKTIVITETTYPENAVN": "05 IA Tjeneste: Senior og livsfasearbeid",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 7283
+  },
+  {
+    "AKTIVITETKODE": "ARBRRHBSM",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering - sykmeldt arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 577
+  },
+  {
+    "AKTIVITETKODE": "UTBHLETTPS",
+    "AKTIVITETTYPENAVN": "Utredning/behandling lettere psykiske lidelser",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1091
+  },
+  {
+    "AKTIVITETKODE": "REKAVTL",
+    "AKTIVITETTYPENAVN": "Rekrutteringsavtale",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 386
+  },
+  {
+    "AKTIVITETKODE": "ATG",
+    "AKTIVITETTYPENAVN": "Arbeidstreningsgrupper",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 333
+  },
+  {
+    "AKTIVITETKODE": "ANNET",
+    "AKTIVITETTYPENAVN": "Annen aktivitet",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 13
+  },
+  {
+    "AKTIVITETKODE": "ARBTILOPPF",
+    "AKTIVITETTYPENAVN": "Arbeidsrettede tiltak - Oppfølgingstiltak",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1
+  },
+  {
+    "AKTIVITETKODE": "TILPERBED",
+    "AKTIVITETTYPENAVN": "Tilretteleggingstilskudd for arbeidssøker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2327
+  },
+  {
+    "AKTIVITETKODE": "EKSPEBIST",
+    "AKTIVITETTYPENAVN": "Ekspertbistand",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 8
+  },
+  {
+    "AKTIVITETKODE": "KONTSKJE",
+    "AKTIVITETTYPENAVN": "Kontaktskjema",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 785
+  },
+  {
+    "AKTIVITETKODE": "BIA",
+    "AKTIVITETTYPENAVN": "Bedriftsintern attføring",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2356
+  },
+  {
+    "AKTIVITETKODE": "AVKLARSV",
+    "AKTIVITETTYPENAVN": "Avklaring i skjermet virksomhet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 718
+  },
+  {
+    "AKTIVITETKODE": "MENTOR",
+    "AKTIVITETTYPENAVN": "Mentor",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 18959
+  },
+  {
+    "AKTIVITETKODE": "BT06",
+    "AKTIVITETTYPENAVN": "Basistjeneste 06 - En samtale om arbeidsmuligheter - funksjonsvurdering",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 5888
+  },
+  {
+    "AKTIVITETKODE": "MØTETILT",
+    "AKTIVITETTYPENAVN": "Møte tiltak",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 4527
+  },
+  {
+    "AKTIVITETKODE": "BT04",
+    "AKTIVITETTYPENAVN": "Basistjeneste 04 - Sykefraværsoppfølging",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 51892
+  },
+  {
+    "AKTIVITETKODE": "VARLONTIL",
+    "AKTIVITETTYPENAVN": "Varig lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 5878
+  },
+  {
+    "AKTIVITETKODE": "AVTAKT",
+    "AKTIVITETTYPENAVN": "Avtale om aktivitet",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 6
+  },
+  {
+    "AKTIVITETKODE": "ARBFORB",
+    "AKTIVITETTYPENAVN": "Arbeidsforberedende trening (AFT)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 489
+  },
+  {
+    "AKTIVITETKODE": "TLFTILT",
+    "AKTIVITETTYPENAVN": "Telefonkontakt tiltak",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 11174
+  },
+  {
+    "AKTIVITETKODE": "TIA05",
+    "AKTIVITETTYPENAVN": "03 IA Tjeneste: Forebygge og redusere sykefravær",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 116429
+  },
+  {
+    "AKTIVITETKODE": "NETTAMO",
+    "AKTIVITETTYPENAVN": "Nettbasert arbeidsmarkedsopplæring (AMO)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 383
+  },
+  {
+    "AKTIVITETKODE": "EPOST",
+    "AKTIVITETTYPENAVN": "E-post eller SMS",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 26196
+  },
+  {
+    "AKTIVITETKODE": "IA_EVAL",
+    "AKTIVITETTYPENAVN": "IA Evaluering",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 13339
+  },
+  {
+    "AKTIVITETKODE": "ARBRRHBAG",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 526
+  },
+  {
+    "AKTIVITETKODE": "ABOPPF",
+    "AKTIVITETTYPENAVN": "Arbeid med bistand A oppfølging",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 17
+  },
+  {
+    "AKTIVITETKODE": "VASV",
+    "AKTIVITETTYPENAVN": "Varig tilrettelagt arbeid i skjermet virksomhet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 948
+  },
+  {
+    "AKTIVITETKODE": "BT08",
+    "AKTIVITETTYPENAVN": "Basistjeneste 08 - Livsfasepolitikk",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 5182
+  },
+  {
+    "AKTIVITETKODE": "T08",
+    "AKTIVITETTYPENAVN": "08 IA Tjeneste: Bistå i systemrettet arbeid for å inkludere personer som står utenfor arbeidslivet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 10466
+  },
+  {
+    "AKTIVITETKODE": "T04",
+    "AKTIVITETTYPENAVN": "04 IA Tjeneste: Informere og veilede i bruk av virkemidler for et mer inkluderende arbeidsliv",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 22472
+  },
+  {
+    "AKTIVITETKODE": "TIA06",
+    "AKTIVITETTYPENAVN": "01 IA Tjeneste: IA-veiledning",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 97338
+  },
+  {
+    "AKTIVITETKODE": "IA_BIST",
+    "AKTIVITETTYPENAVN": "IA 02 Målrettet IA-arbeid fra NAV Arbeidslivssenter",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 361704
+  },
+  {
+    "AKTIVITETKODE": "T10",
+    "AKTIVITETTYPENAVN": "10 IA Tjeneste: Måle og evaluere måloppnåelse i IA-arbeidet",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 8018
+  },
+  {
+    "AKTIVITETKODE": "AMBF3",
+    "AKTIVITETTYPENAVN": "Tilrettelagt arbeid i arbeidsmarkedsbedrift",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 278
+  },
+  {
+    "AKTIVITETKODE": "VENTBEHAN",
+    "AKTIVITETTYPENAVN": "Venter på behandling",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 1
+  },
+  {
+    "AKTIVITETKODE": "UTDYRK",
+    "AKTIVITETTYPENAVN": "Utdanning",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 314208
+  },
+  {
+    "AKTIVITETKODE": "LONNTILS",
+    "AKTIVITETTYPENAVN": "Lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 82388
+  },
+  {
+    "AKTIVITETKODE": "BT03",
+    "AKTIVITETTYPENAVN": "Basistjeneste 03 - Fravær til nærvær",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 36890
+  },
+  {
+    "AKTIVITETKODE": "T09",
+    "AKTIVITETTYPENAVN": "09 IA Tjeneste: Bistå i å utforme seniorpolitikk i et livsfaseperspektiv",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 5701
+  },
+  {
+    "AKTIVITETKODE": "MIDLONTIL",
+    "AKTIVITETTYPENAVN": "Midlertidig lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 51774
+  },
+  {
+    "AKTIVITETKODE": "EDEL",
+    "AKTIVITETTYPENAVN": "Deltidsjobb",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 3
+  },
+  {
+    "AKTIVITETKODE": "ARBTRENA",
+    "AKTIVITETTYPENAVN": "Arbeidstrening hos annen arbeidsgiver",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 3
+  },
+  {
+    "AKTIVITETKODE": "REAKTUFOR",
+    "AKTIVITETTYPENAVN": "Lønnstilskudd - reaktivisering av uførepensjonister",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 868
+  },
+  {
+    "AKTIVITETKODE": "INDJOBSTOT",
+    "AKTIVITETTYPENAVN": "Individuell jobbstøtte (IPS)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 91
+  },
+  {
+    "AKTIVITETKODE": "GBDR",
+    "AKTIVITETTYPENAVN": "Planlegge og gjennomføre bedriftsbesøk",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 94235
+  },
+  {
+    "AKTIVITETKODE": "T03",
+    "AKTIVITETTYPENAVN": "03 IA Tjeneste: Bistå i rekruttering/inkludering/oppfølging av person",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 26590
+  },
+  {
+    "AKTIVITETKODE": "HOYEREUTD",
+    "AKTIVITETTYPENAVN": "Høyere utdanning",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 2038
+  },
+  {
+    "AKTIVITETKODE": "TIA10",
+    "AKTIVITETTYPENAVN": "06 IA Tjeneste: Måle og evaluere",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 8715
+  },
+  {
+    "AKTIVITETKODE": "SAMTILT",
+    "AKTIVITETTYPENAVN": "Samarbeidsmøte tiltak",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 11199
+  },
+  {
+    "AKTIVITETKODE": "BEDRU",
+    "AKTIVITETTYPENAVN": "Bedriftsundersøkelsen",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 28740
+  },
+  {
+    "AKTIVITETKODE": "IA_HANDL",
+    "AKTIVITETTYPENAVN": "IA Handling",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 123072
+  },
+  {
+    "AKTIVITETKODE": "BT05",
+    "AKTIVITETTYPENAVN": "Basistjeneste 05 - Kommunikasjon og samtaletrening",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 7223
+  },
+  {
+    "AKTIVITETKODE": "IA_VURD",
+    "AKTIVITETTYPENAVN": "IA Vurder IA-status for arbeidsgiver",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 11149
+  },
+  {
+    "AKTIVITETKODE": "INDOPPFAG",
+    "AKTIVITETTYPENAVN": "Oppfølging",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 8196
+  },
+  {
+    "AKTIVITETKODE": "JOBBMESS",
+    "AKTIVITETTYPENAVN": "Jobbmesse",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 17231
+  },
+  {
+    "AKTIVITETKODE": "AMBF2",
+    "AKTIVITETTYPENAVN": "Kvalifisering i arbeidsmarkedsbedrift",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 705
+  },
+  {
+    "AKTIVITETKODE": "VIKARBLED",
+    "AKTIVITETTYPENAVN": "Utdanningsvikariater",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 201
+  },
+  {
+    "AKTIVITETKODE": "TILR_TILSK",
+    "AKTIVITETTYPENAVN": "Tilretteleggingstilskudd",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 6232
+  },
+  {
+    "AKTIVITETKODE": "IA_REKR",
+    "AKTIVITETTYPENAVN": "01 Rekruttering av enkeltvirksomheter",
+    "AKTIVITETGRUPPEKODE": "SAK",
+    "ANTALL": 15640
+  },
+  {
+    "AKTIVITETKODE": "EMED",
+    "AKTIVITETTYPENAVN": "Medisinsk behandling / utredning",
+    "AKTIVITETGRUPPEKODE": "EGEN",
+    "ANTALL": 9
+  },
+  {
+    "AKTIVITETKODE": "PRAKSORD",
+    "AKTIVITETTYPENAVN": "Arbeidspraksis i ordinær virksomhet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 406731
+  },
+  {
+    "AKTIVITETKODE": "JOBBKLUBB",
+    "AKTIVITETTYPENAVN": "Intern jobbklubb",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 382
+  },
+  {
+    "AKTIVITETKODE": "UTBHPSLD",
+    "AKTIVITETTYPENAVN": "Utredning/behandling lettere psykiske og sammensatte lidelser",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 321
+  },
+  {
+    "AKTIVITETKODE": "TIA02",
+    "AKTIVITETTYPENAVN": "02 IA Tjeneste: Mål og handlingsplan",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 13782
+  },
+  {
+    "AKTIVITETKODE": "BEDRBES",
+    "AKTIVITETTYPENAVN": "Bedriftsbesøk",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 26711
+  },
+  {
+    "AKTIVITETKODE": "SUPPEMP",
+    "AKTIVITETTYPENAVN": "Supported Employment",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 12
+  },
+  {
+    "AKTIVITETKODE": "AMOE",
+    "AKTIVITETTYPENAVN": "Arbeidsmarkedsopplæring (AMO) enkeltplass",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 80751
+  },
+  {
+    "AKTIVITETKODE": "SAMMO",
+    "AKTIVITETTYPENAVN": "Samarbeidsmøte",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 381182
+  },
+  {
+    "AKTIVITETKODE": "VV",
+    "AKTIVITETTYPENAVN": "Varig vernet arbeid (VVA)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 428
+  },
+  {
+    "AKTIVITETKODE": "JOBBBONUS",
+    "AKTIVITETTYPENAVN": "Jobbklubb med bonusordning",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 31
+  },
+  {
+    "AKTIVITETKODE": "TILRETARB",
+    "AKTIVITETTYPENAVN": "Tilretteleggingsgaranti for arbeidsgiver",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 1664
+  },
+  {
+    "AKTIVITETKODE": "ABTBOPPF",
+    "AKTIVITETTYPENAVN": "Arbeid med bistand B",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 12
+  },
+  {
+    "AKTIVITETKODE": "INDOPPRF",
+    "AKTIVITETTYPENAVN": "Resultatbasert finansiering av formidlingsbistand",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 3
+  },
+  {
+    "AKTIVITETKODE": "TELKO",
+    "AKTIVITETTYPENAVN": "Telefonkontakt",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 992862
+  },
+  {
+    "AKTIVITETKODE": "SP_DIALOG2",
+    "AKTIVITETTYPENAVN": "Dialogmøte 2 (i regi av NAV)",
+    "AKTIVITETGRUPPEKODE": "SPES",
+    "ANTALL": 1288621
+  },
+  {
+    "AKTIVITETKODE": "TILRETTEL",
+    "AKTIVITETTYPENAVN": "Tilrettelegging for arbeidstaker",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 3732
+  },
+  {
+    "AKTIVITETKODE": "SYSSLANG",
+    "AKTIVITETTYPENAVN": "Sysselsettingstiltak for langtidsledige",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 781
+  },
+  {
+    "AKTIVITETKODE": "TIDSUBLONN",
+    "AKTIVITETTYPENAVN": "Tidsubestemt lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 7556
+  },
+  {
+    "AKTIVITETKODE": "UFØREPENLØ",
+    "AKTIVITETTYPENAVN": "Uførepensjon som lønnstilskudd",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 86
+  },
+  {
+    "AKTIVITETKODE": "UTDPERMVIK",
+    "AKTIVITETTYPENAVN": "Utdanningspermisjoner",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 101
+  },
+  {
+    "AKTIVITETKODE": "BIO",
+    "AKTIVITETTYPENAVN": "Bedriftsintern opplæring (BIO)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 1739
+  },
+  {
+    "AKTIVITETKODE": "REKBISTNOR",
+    "AKTIVITETTYPENAVN": "Møte rekrutteringsbistand",
+    "AKTIVITETGRUPPEKODE": "ANN",
+    "ANTALL": 2109
+  },
+  {
+    "AKTIVITETKODE": "BT10",
+    "AKTIVITETTYPENAVN": "Basistjeneste 10 - Økonomiske virkemidler",
+    "AKTIVITETGRUPPEKODE": "IAA",
+    "ANTALL": 87190
+  },
+  {
+    "AKTIVITETKODE": "PRAKSKJERM",
+    "AKTIVITETTYPENAVN": "Arbeidspraksis i skjermet virksomhet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 3732
+  },
+  {
+    "AKTIVITETKODE": "PV",
+    "AKTIVITETTYPENAVN": "Produksjonsverksted (PV)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 153
+  },
+  {
+    "AKTIVITETKODE": "ARBRRHDAG",
+    "AKTIVITETTYPENAVN": "Arbeidsrettet rehabilitering (dag)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 424
+  },
+  {
+    "AKTIVITETKODE": "ASV",
+    "AKTIVITETTYPENAVN": "Arbeidssamvirke (ASV)",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 90
+  },
+  {
+    "AKTIVITETKODE": "VATIAROR",
+    "AKTIVITETTYPENAVN": "Varig tilrettelagt arbeid i ordinær virksomhet",
+    "AKTIVITETGRUPPEKODE": "TLTAK",
+    "ANTALL": 5700
+  }
+]
