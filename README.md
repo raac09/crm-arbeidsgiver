@@ -23,6 +23,16 @@ Ved å bruke VS Code som IDE, er det lagt inn konfigurasjon som automatisk pushe
 * `sfdx force:source:pull` for å hente endringer som du gjør i konfigurasjon i applikasjonen online.
 * `sfdx force:source:push` for å publisere endringer du gjør i kode lokalt til applikasjonen online.
 
+## Oppdatere bare metadata
+```
+sfdx force:apex:execute -f dummy-data/remove-data.apex 
+rm -rf dummy-data/tag.out
+sfdx wry:file:replace -i dummy-data/tag -o dummy-data/tag.out
+sfdx force:data:tree:import --plan dummy-data/tag.out/plan.json
+```
+
 ## Annet
 
 For spørsmål om denne applikasjonen, bruk #tag-crm på Slack.
+
+

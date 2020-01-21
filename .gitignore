@@ -300,3 +300,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tmp/
+
+./dummy-data/tag/*.generated.json
